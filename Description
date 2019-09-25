@@ -1,0 +1,9 @@
+A simple game of Tic Tac Toe with an AI. Made with C++ in VS2019. 
+
+In this small project, the player chooses to either let the AI start the game or not. The AI in this game does not
+rely solely on RNG (Random Number Generator) to select a spot on the board. It has a way to know when to block the
+player's track or to win if the opportunity is there. 
+
+Originally, this project was an assignment I had to do when I took Artificial Intelligence back in school learning
+about the Min Max Algorithm. Back then, the code looked intimidating to look at, so I was inspired to write up a 
+cleaner looking code when I recreated this project. 
